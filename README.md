@@ -2,7 +2,7 @@
 
 This project is a YouTube clone built using React and Redux Toolkit. It replicates many of the features you'd find on the YouTube platform.
 
--> Live App: <a href="https://v1-youtube.netlify.app/">Youtue</a>
+-> Live App : <a href="https://v1-youtube.netlify.app/" target="_blank"> Youtue</a>
 
 ## Project Overview
 
